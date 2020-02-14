@@ -1,6 +1,6 @@
 var net = require("net");
 var dgram = require('dgram');
-var noble = null;
+var noble = require('@abandonware/noble');
 
 var bleCmd = [];
 bleCmd.length = 18;
