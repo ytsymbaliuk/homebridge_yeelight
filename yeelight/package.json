@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git://github.com/ytsymbaliuk/homebridge_yeelight.git"
   },
-  "bugs": {
-    "url": "http://github.com/ytsymbaliuk/homebridge_yeelight/issues"
-  },
   "engines": {
     "node": ">=0.12.0",
     "homebridge": ">=0.4.0"
