@@ -6,7 +6,7 @@ var bleCmd = [];
 bleCmd.length = 18;
 
 try {
-    var noble = require('noble');
+    var noble = require('@abandonware/noble');
 } catch (ex) {
     console.log("failed to load BLE module!");
 }
