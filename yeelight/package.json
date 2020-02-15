@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-yeelight",
+  "name": "homebridge-yeelight-noble",
   "version": "0.0.1",
   "description": "Yeelight plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/ytsymbaliuk/homebridge_yeelight.git"
+    "url": "git://https://github.com/ytsymbaliuk/homebridge_yeelight.git"
   },
   "engines": {
     "node": ">=0.12.0",
